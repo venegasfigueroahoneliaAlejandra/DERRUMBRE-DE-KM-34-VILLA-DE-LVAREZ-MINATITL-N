@@ -1,3 +1,17 @@
+# codigo corrido
+
+![image](https://github.com/user-attachments/assets/66196bd4-70bb-4164-94de-43b7fb163da5)
+
+![image](https://github.com/user-attachments/assets/3ebbb10f-1002-478a-9b63-1418339af3c1)
+
+![image](https://github.com/user-attachments/assets/03dfa192-9324-4c8f-9462-658aa625c1c0)
+
+![image](https://github.com/user-attachments/assets/3c156ebb-5066-4eb6-8992-577377bdd82a)
+
+![image](https://github.com/user-attachments/assets/a8f79434-f801-405d-9d1c-f7a0dea2105e)
+
+![image](https://github.com/user-attachments/assets/98baef48-b5d4-4b75-97f7-c1aeadcba278)
+
 import geopandas as gpd
 import folium
 import matplotlib.pyplot as plt
@@ -97,3 +111,12 @@ plot_terrain_3d(x, y, z_original, z_afectado)
 
 volumen = calculate_volume(z_original, z_afectado)
 print(f"Volumen de tierra desplazada: {volumen:.2f} metros cúbicos")
+
+
+
+
+
+
+
+
+
