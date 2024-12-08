@@ -1,4 +1,5 @@
 # codigo corrido
+https://colab.research.google.com/notebooks/intro.ipynb
 
 ![image](https://github.com/user-attachments/assets/66196bd4-70bb-4164-94de-43b7fb163da5)
 
