@@ -1,6 +1,6 @@
 Código markdown
 # 1Derrumbe del KM 34 Villa de Álvarez-Minatitlán
-**Autores:** Venegas Figueroa HOnelia Alejandra, Alonzo Peña Alondra
+**Autores:** Venegas Figueroa Honelia Alejandra, Alonzo Peña Alondra
 
 ## Introducción
 El derrumbe en el kilómetro 34 de la carretera Villa de Álvarez-Minatitlán refleja los riesgos asociados a factores climáticos,
