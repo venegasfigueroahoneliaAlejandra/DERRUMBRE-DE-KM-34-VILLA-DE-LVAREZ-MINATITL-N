@@ -76,5 +76,5 @@ patrones estacionales que indican un mayor riesgo durante las temporadas de lluv
 ![image](https://github.com/user-attachments/assets/548fdbba-02a4-4b22-b1df-321de8f894fd)
 ![image](https://github.com/user-attachments/assets/12d25150-23e8-4790-ae01-06c10d03c1ac)
 
-## Conclusiones
+## Conclusión
 El análisis del derrumbe ocurrido en el kilómetro 34 de la carretera Villa de Álvarez-Minatitlán, utilizando técnicas de programación, datos geológicos como las coordenadas de longitud y latitud de la zona afectada, y herramientas estadísticas, permitió identificar las condiciones del terreno a través de modelos y mapas generados por el código desarrollado. Estos recursos facilitaron la localización precisa de los puntos más afectados, los cuales fueron señalados en un mapa interactivo, mostrando sus coordenadas exactas. Este enfoque integral proporcionó una visión clara de la magnitud del evento y permitió una evaluación detallada de las áreas críticas.
