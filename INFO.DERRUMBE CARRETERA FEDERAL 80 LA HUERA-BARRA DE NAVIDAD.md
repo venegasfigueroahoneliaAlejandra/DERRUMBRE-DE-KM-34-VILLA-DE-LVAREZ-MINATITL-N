@@ -22,5 +22,7 @@ media y desviación estándar, y visualizados con gráficos para identificar pat
 # RESULTADOS 
 El análisis mostró que las lluvias intensas y los cambios en el terreno por act. humana son las principales causas del derrumbe. Se identificaron patrones estacionales que indican un mayor riesgo durante las temporadas de lluvias.
 ![image](https://github.com/user-attachments/assets/80ec3f24-efe4-4c02-ac22-9e1fa1689000)
+# CONCLUSIÓN
+El análisis del derrumbe ocurrido en la carretera federal 80 La Huerta-Barra de Navidad, utilizando técnicas de programación, datos geológicos como las coordenadas de longitud y latitud de la zona afectada, y herramientas estadísticas, permitió identificar las condiciones del terreno a través de modelos y mapas generados por el código desarrollado. Estos recursos facilitaron la localización precisa de los puntos más afectados, los cuales fueron señalados en un mapa interactivo, mostrando sus coordenadas exactas. Este enfoque integral proporcionó una visión clara de la magnitud del evento y permitió una evaluación detallada de las áreas críticas.
 
 
