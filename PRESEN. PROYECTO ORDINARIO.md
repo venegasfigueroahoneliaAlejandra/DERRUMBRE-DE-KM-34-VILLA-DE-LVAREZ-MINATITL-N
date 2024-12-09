@@ -5,7 +5,9 @@ Código markdown
 ## Introducción
 El derrumbe en el kilómetro 34 de la carretera Villa de Álvarez-Minatitlán refleja los riesgos asociados a factores climáticos,
 geológicos y humanos. Este análisis busca identificar las causas principales mediante herramientas estadísticas y proponer 
-medidas preventivas para garantizar la seguridad vial y proteger la infraestructura.
+medidas preventivas para garantizar la seguridad vial y proteger la infraestructura. El codigo que se realizara para el proyecto de ordinario
+de esta materia trabajara con lat y long de este tramo de carretera para crear una simulación del terreno, otra del tramo afectado y por ultimo 
+un mapa donde podremos ver los puntos de la zona afectada junto con su lat y long de cada punto.
 
 ## Antecedentes
 La problemática asociada a los deslizamientos en el kilómetro 34 de la carretera Villa de Álvarez-Minatitlán es un fenómeno 
@@ -71,6 +73,8 @@ media y desviación estándar, y visualizados con gráficos para identificar pat
 ## Resultados
 El análisis mostró que las lluvias intensas y los cambios en el terreno son las principales causas del derrumbe. Se identificaron
 patrones estacionales que indican un mayor riesgo durante las temporadas de lluvias. 
+![image](https://github.com/user-attachments/assets/548fdbba-02a4-4b22-b1df-321de8f894fd)
+![image](https://github.com/user-attachments/assets/12d25150-23e8-4790-ae01-06c10d03c1ac)
 
 ## Conclusiones
 El análisis del derrumbe en el kilómetro 34 de la carretera Villa de Álvarez-Minatitlán, utilizando programación, datos geologicos y herramientas 
