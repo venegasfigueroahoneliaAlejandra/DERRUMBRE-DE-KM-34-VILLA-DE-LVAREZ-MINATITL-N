@@ -18,6 +18,7 @@ Se recopilaron y procesaron datos clave para el análisis del derrumbe, incluyen
 cambios en actividades humanas como agricultura y construcción, historial de reparaciones y daños en la carretera, y propiedades 
 del terreno como inclinación y zonas vulnerables. Los datos fueron organizados y analizados mediante medidas estadísticas como 
 media y desviación estándar, y visualizados con gráficos para identificar patrones clave relacionadas con el evento.
+# DESARROLLO
 
 # RESULTADOS 
 El análisis mostró que las lluvias intensas y los cambios en el terreno por act. humana son las principales causas del derrumbe. Se identificaron patrones estacionales que indican un mayor riesgo durante las temporadas de lluvias.
