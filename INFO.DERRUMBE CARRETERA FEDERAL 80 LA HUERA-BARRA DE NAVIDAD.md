@@ -14,4 +14,6 @@ Interacción Humana y Deslizamientos: Un aspecto esencial para comprender la din
 Temporalidad y Estacionalidad: La temporalidad emerge como un componente crítico, con patrones estacionales que indican un incremento de riesgos durante las temporadas invernales. Las lluvias intensas saturan el suelo, elevando considerablemente las posibilidades de deslizamientos. Un análisis detallado de estos patrones temporales es esencial para comprender la variabilidad del riesgo y diseñar estrategias de prevención adaptativas.
 # RESULTADOS 
 El análisis mostró que las lluvias intensas y los cambios en el terreno por act. humana son las principales causas del derrumbe. Se identificaron patrones estacionales que indican un mayor riesgo durante las temporadas de lluvias.
+![image](https://github.com/user-attachments/assets/80ec3f24-efe4-4c02-ac22-9e1fa1689000)
+
 
