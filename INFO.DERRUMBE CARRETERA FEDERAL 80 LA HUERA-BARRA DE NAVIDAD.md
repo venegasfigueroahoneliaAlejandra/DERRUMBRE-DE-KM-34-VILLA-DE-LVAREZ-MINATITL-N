@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3a210df2-f4c8-492e-aacb-cc5054901522)Código markdown
+Código markdown
 # DERRUMBE CARRETERA FEDERAL 80 LA HUERA-BARRA DE NAVIDAD 
 **AUTOR** HONELIA ALEJANDRA VENEGAS FIGUEROA 
 # INTRODUCCIÓN 
